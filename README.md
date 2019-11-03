@@ -37,6 +37,11 @@
 - если измеренное расстояние дальномерами меньше уставки SP_DIST робот начинает движение вперед
 - если расстояние больше SP_DIST робот вращается в направлении заданном переключателем SW_DIR
 
+## Используемые библиотеки ##
+- [SharpIR](https://github.com/dekoner/Arduino_SharpIR)
+- [Ultrasonic](https://github.com/dekoner/Ultrasonic)
+- [MotorControl](https://github.com/dekoner/MotorControl)
+
 ## License ##
 
 sumo_open by [dekoner](https://github.com/dekoner "dekoner") is licensed under a MIT License.
